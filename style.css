@@ -33,7 +33,7 @@ a:hover, a:active {
   background: linear-gradient(to top, rgba(0,0,0,0.5)95%,rgba(0,0,0,0.5)90%), url(111.jpeg);
   background-position: center;
   background-size: cover;
-  height: 100vh;
+  height: cover;
 }
 
 .navbar{
